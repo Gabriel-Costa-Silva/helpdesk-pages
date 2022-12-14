@@ -1,0 +1,1 @@
+A página inicial está na pasta /home
